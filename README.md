@@ -1,4 +1,4 @@
-# Robotuk 🤖
+# Robotuk 
 ### Arduino-Based Autonomous Obstacle-Avoiding Robot
 
 Robotuk is a small autonomous mobile robot built with Arduino. It uses a touch sensor to control its movement and an ultrasonic sensor to detect obstacles and navigate around them.
