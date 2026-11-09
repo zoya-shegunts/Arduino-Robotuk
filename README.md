@@ -42,7 +42,7 @@ Robotuk is a small autonomous mobile robot built with Arduino. It uses a touch s
 
 This project was built to explore robotics, sensor integration, motor control, and basic autonomous navigation using Arduino.
 
-## Purpose
+## Author
 
 Zoya Shegunts
 
